@@ -1,0 +1,21 @@
+.login {
+    width: 100%;
+    height: 100%;
+
+}
+
+.login-header {
+    margin: 150px auto 10px;
+    text-align: center;
+}
+
+.loginForm {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 350px;
+    padding: 35px 35px 15px;
+    background: #fff;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 0 25px #cac6c6;
+}
